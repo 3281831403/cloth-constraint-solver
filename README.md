@@ -1,4 +1,4 @@
-# 布料解算穿模与抖动修复
+# cloth-constraint-solver
 
 ## 题面
 
